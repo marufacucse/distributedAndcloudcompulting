@@ -12,12 +12,12 @@ def hello():
     # Program to multiply two matrices using nested loops
 
     # 2x3 matrix
-    X = [[10,20,3],
-        [4 ,50,6]]
+    X = [[5,10,6],
+        [8 ,5,11]]
     # 3x2 matrix
-    Y = [[10,110],
-        [20,210],
-        [30,31]]
+    Y = [[5,9],
+        [8,12],
+        [3,3]]
     # result is 2x2
     result = [[0,0],
               [0,0]]
