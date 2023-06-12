@@ -10,7 +10,7 @@ app = Flask(__name__)
 def hello():
     """Return a friendly HTTP greeting."""
     a = []
-    for i in range(1,250,1):
+    for i in range(1,20,1):
         if (i%2) == 0:
             a.append(i)
     return a
